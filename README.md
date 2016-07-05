@@ -1,4 +1,4 @@
-### This repository contains R code for making nice box-plots 
+### This repository contains R code for making nice ggplot2 graphs 
 
-Based on ggplot2
+e.g. Box-plots
 
